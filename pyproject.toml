@@ -20,4 +20,5 @@ dependencies = [
     "rank-bm25>=0.2.2",
     "streamlit>=1.45.0",
     "tiktoken>=0.9.0",
+    "uv>=1.0.0",
 ]
